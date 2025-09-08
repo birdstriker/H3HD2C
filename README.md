@@ -1,1 +1,1 @@
-"# H3HD2C" 
+The HD version of Heroes of Might and Magic 3 has fixed the beloved bug 2c that many people appreciate. This patch can revert it back. Just place it in the game directory and run it.
